@@ -8,3 +8,6 @@ if(year<18){
 else if(year>=18){
     alert(firstName + '\n' + lastName + '\n' + 'yoshingiz : ' + year + '\n' + 'siz armiyaga qabul qilinasiz')
 }
+else{
+    alert('noto\'g\'ri to\'ldirilgan')
+}
